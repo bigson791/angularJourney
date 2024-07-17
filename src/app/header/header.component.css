@@ -1,0 +1,13 @@
+header{
+  display: flex;
+  background-color: rgba(111, 55, 231, 0.829);
+  padding: 15px;
+  justify-content: space-evenly; /*para centrar el contenido*/
+  align-items: center;
+  color: white
+}
+
+img{
+  height: 80px;
+  width: 80px;
+}
